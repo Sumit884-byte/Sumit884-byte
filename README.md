@@ -2,7 +2,7 @@
 
 Data Science student building AI tools, automation pipelines, and full-stack apps.
 
-[Portfolio](https://rsume-site-ruby.vercel.app/) · [LinkedIn](https://linkedin.com/in/sumit0rn) · [Email](mailto:sah299610@gmail.com) · [Dev.to](https://dev.to/sumit0rn) · [Substack](https://substack.com/@sumit0rn) · [LinkedIn](https://x.com/sumit0rn)
+[Portfolio](https://rsume-site-ruby.vercel.app/) · [LinkedIn](https://linkedin.com/in/sumit0rn) · [X/Twitter](https://x.com/sumit0rn) · [Email](mailto:sah299610@gmail.com) · [Dev.to](https://dev.to/sumit0rn) · [Substack](https://substack.com/@sumit0rn)
 
 ---
 
