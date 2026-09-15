@@ -1,38 +1,24 @@
-# Hi, I'm Sumit Mishra
+# Sumit Mishra
 
-**Dream Coder** — building AI tools, automation pipelines, and full-stack apps.
+Data Science student building AI tools, automation pipelines, and full-stack apps.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rsume--site-89C2F0?style=for-the-badge)](https://github.com/Sumit884-byte/rsume-site)
-[![Arka](https://img.shields.io/badge/Arka-AI%20Agent-FFD93D?style=for-the-badge)](https://github.com/Sumit884-byte/arka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sumit0rn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit0rn)
-[![Email](https://img.shields.io/badge/Email-sah299610@gmail.com-FF9A3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sah299610@gmail.com)
+[Portfolio](https://rsume-site-ruby.vercel.app/) · [LinkedIn](https://linkedin.com/in/sumit0rn) · [Email](mailto:sah299610@gmail.com) · [Dev.to](https://dev.to/sumit0rn) · [Substack](https://substack.com/@sumit0rn) · [LinkedIn](https://x.com/sumit0rn)
 
 ---
 
-## About
+**Currently**
+- Building [Arka](https://github.com/Sumit884-byte/arka) — a terminal-native AI agent with multi-provider LLM failover
+- Contributing to [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
 
-Data Science student focused on practical software — terminal AI agents, data workflows, and polished web experiences. I like shipping small tools that automate real work.
+**Arka** — routes plain-English requests to local skills, no cloud lock-in.
+24 LLM providers · 70+ skills · 75 MCP tools · 320+ tests
 
-## Featured projects
+```bash
+pipx install "arka-agent[chat]"
+```
 
-| Project | Description |
-| --- | --- |
-| [**Arka**](https://github.com/Sumit884-byte/arka) | Natural-language AI agent for your terminal — skills, voice, web answers, and system automation |
-| [**rsume-site**](https://github.com/Sumit884-byte/rsume-site) | Glassmorphic portfolio site — React, Tailwind, Framer Motion |
-| [**threejs_demo**](https://github.com/Sumit884-byte/threejs_demo) | Interactive 3D experiments with Three.js |
-| [**youtube_bulk_downloader**](https://github.com/Sumit884-byte/youtube_bulk_downloader) | Python utility for batch YouTube downloads |
+Docs: [arka-agent.mintlify.site](https://arka-agent.mintlify.site) · PyPI: [arka-agent](https://pypi.org/project/arka-agent/)
 
-## Tech
+**Tech**
 
-`Python` · `TypeScript` · `React` · `Tailwind CSS` · `Automation` · `AI/ML`
-
-## Currently
-
-- Maintaining [**Arka**](https://github.com/Sumit884-byte/arka) and its [docs](https://arka-agent.mintlify.site)
-- Iterating on [**rsume-site**](https://github.com/Sumit884-byte/rsume-site)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=SUMIT.WEB;Dream+Coder;AI+%26+Automation" alt="Typing SVG" />
-</p>
+Python · TypeScript · React · Tailwind CSS · Rust · Docker
