@@ -8,7 +8,6 @@ Data Science student building AI tools, automation pipelines, and full-stack app
 
 **Currently**
 - Building [Arka](https://github.com/Sumit884-byte/arka) — a terminal-native AI agent with multi-provider LLM failover
-- Contributing to [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
 
 **Arka** — routes plain-English requests to local skills, no cloud lock-in.
 24 LLM providers · 70+ skills · 75 MCP tools · 320+ tests
