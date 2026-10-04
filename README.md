@@ -19,9 +19,15 @@ pipx install "arka-agent[chat]"
 Docs: [arka-agent.mintlify.site](https://arka-agent.mintlify.site) · PyPI: [arka-agent](https://pypi.org/project/arka-agent/)
 
 SKILLS
+
 Languages: Python, TypeScript, Rust, JavaScript, HTML/CSS
+
 Frameworks / Libraries: React, Next.js, Tailwind CSS, Framer Motion, Vite
+
 AI / ML: LLM orchestration & failover, RAG pipelines, computer vision (OpenCV, MediaPipe), sentiment/forecasting models,
+
 MCP (Model Context Protocol), Whisper/TTS pipelines
+
 Automation: Browser automation, scheduled bots, CLI tooling, desktop notifiers
+
 Infrastructure: Docker, CLI/devtool packaging (pipx, PyPI), Bright Data
