@@ -14,8 +14,6 @@ I like turning messy workflows into software — especially where **LLMs, automa
 </p>
 
 ---
-[![Sumit884-byte's GitHub Holo Card](https://githubcard-lemon.vercel.app/api/card/Sumit884-byte)](https://githubcard-lemon.vercel.app/u/Sumit884-byte)
-
 ## Currently Building
 
 ### Arka
